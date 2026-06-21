@@ -1,4 +1,4 @@
-# PetitMath 🦊
+# Mathidog 🦊
 
 Application ludo-éducative de mathématiques pour les élèves de **CP (6-7 ans)**, conforme au programme de l'Éducation nationale française. Conçue pour être utilisée seul par un enfant qui commence à lire.
 
